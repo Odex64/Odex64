@@ -7,7 +7,7 @@
 
 **Follow me:** [<img align="center" alt="Odex64 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] [<img align="center" alt="Odex64 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 <br/>
-## Languages and Tools:
+## Tools:
 [<img align="left" alt="Visual Studio" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"/>][github]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"/>][github]
 [<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"/>][github]
