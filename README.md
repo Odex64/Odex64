@@ -1,7 +1,6 @@
 ### Hey, I'm a very young and motivated developer. You might find my profile interesting
 
 - 📚 I'm still a student.
-- 🎮 Developing a game from scratch.
 - 🧐 I love "C" languages.
 - ⚡ I love 2D games.
 
