@@ -13,18 +13,18 @@
 
 <h1 align="center">About me</h1>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<ul>
-  <li>✌️ I enjoy programming.</li>
-  <li>🔭 I'm currently working on <a href="https://github.com/Odex64/Raylib.NET"><b>Raylib.NET</b></a>.</li>
-  <li>🌱 I love learning new things.</li>
-  <li>👨‍💻 Most of my projects are on Github.</li>
-  <li>🎮 I like indie games.</li>
-  <li>🚀 I love open source projects.</li>
-  <li>📫 You can reach me on <a href="https://discord.gg/7XKw6YQa76"><b>Discord</b></a>.</li>
-  <li>🎯 Never stop dreaming.</li>
-  <li>😊 I'm also looking for trusted friends.</li>
-  <li>⚡ Fun fact: I love apples.</li>
-</ul>
+
+- ✌️ I enjoy programming.
+- 🔭 I'm currently working on **[Raylib.NET](https://github.com/Odex64/Raylib.NET)**.
+- 🌱 I love learning new things.
+- 👨‍💻 Most of my projects are on Github.
+- 🎮 I like indie games.
+- 🚀 I love open source projects.
+- 📫 You can reach me on **[Discord](https://discord.gg/7XKw6YQa76)**.
+- 🎯 Never stop dreaming.
+- 😊 I'm also looking for trusted friends.
+- ⚡ Fun fact: I love apples.
+
 <br/>
 
 <h1 align="center">Tech stack</h1>
