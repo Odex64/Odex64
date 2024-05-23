@@ -1,6 +1,6 @@
 <h3 align="center">
   <samp>
-    &gt; Hey There!, I am <b>Odex</b>
+    &gt; Hey There! I am <b>Odex</b>
   </samp>
 </h3>
 
@@ -20,7 +20,7 @@
 - 👨‍💻 Most of my projects are on Github.
 - 🎮 I like indie games.
 - 🚀 I love open source projects.
-- 📫 You can reach me on **[Discord](https://discord.gg/7XKw6YQa76)**.
+- 📫 You can reach me on **[Discord](https://discord.gg/bdFbrvwTnJ)**.
 - 🎯 Never stop dreaming.
 - 😊 I'm also looking for trusted friends.
 - ⚡ Fun fact: I love apples.
