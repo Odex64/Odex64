@@ -15,7 +15,7 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 - ✌️ I enjoy programming.
-- 🔭 I'm currently working on **[Raylib.NET](https://github.com/Odex64/Raylib.NET)**.
+- 🔭 I'm currently working on **[SFR](https://github.com/Odex64/SFR)**.
 - 🌱 I love learning new things.
 - 👨‍💻 Most of my projects are on Github.
 - 🎮 I like indie games.
