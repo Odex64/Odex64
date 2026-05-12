@@ -72,7 +72,7 @@ Reverse engineering and code injection skills.
 [![Steam](https://img.shields.io/badge/Steam-33302E?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/odex64)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0033?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@odex64)
 
-<br/>
+<br/><br/>
 
 ```
 In this repository you can find my GPG public key.
