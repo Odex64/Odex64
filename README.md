@@ -1,19 +1,18 @@
-<div align="center">
-  <h3>
-    <samp>
-      &gt; Hey There!<br/>I am Carmine Pietroluongo <i>aka Odex</i>
-    </samp>
-  </h3>
+<h3 align="center">
+  <samp>
+    &gt; Hey There!<br/>I am Carmine Pietroluongo <i>aka Odex</i>
+  </samp>
+</h3>
 
+<img align="center" src="https://i.imgur.com/WDc3Ql4.png" />
 
-  <br/>
+<br/>
 
-  <p>
-    <samp>
-    [ A developer from <b>Italy</b> 🍕 ]
-    </samp>
-  </p>
-</div>
+<p align="center">
+  <samp>
+  [ A developer from <b>Italy</b> 🍕 ]
+  </samp>
+</p>
 
 </br>
 
