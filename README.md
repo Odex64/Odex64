@@ -5,7 +5,6 @@
     </samp>
   </h3>
 
-  <img src="https://i.imgur.com/WDc3Ql4.png" />
 
   <br/>
 
