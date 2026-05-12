@@ -30,7 +30,7 @@ Reverse engineering and code injection skills.
 - ✌️ Reach me on Discord.
 - ☕ On caffeine.
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 ---
 
