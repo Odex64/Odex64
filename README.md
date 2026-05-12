@@ -16,8 +16,6 @@
   </samp>
 </p>
 
-</br>
-
 <h1 align="center">About Me</h1>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
