@@ -4,9 +4,13 @@
   </samp>
 </h3>
 
-<img align="center" src="https://i.imgur.com/WDc3Ql4.png" />
-
 <br/>
+
+<div align="center">
+  <img src="https://i.imgur.com/WDc3Ql4.png" />
+</div>
+
+<br/><br/>
 
 <p align="center">
   <samp>
