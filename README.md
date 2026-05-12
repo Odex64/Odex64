@@ -22,6 +22,7 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 Expertise in Full Stack Development with web technologies as well as native Desktop & Mobile applications.  
+
 Reverse engineering and code injection skills.
 
 - 🎯 Currently trying Zig.
@@ -29,7 +30,7 @@ Reverse engineering and code injection skills.
 - ✌️ Reach me on Discord.
 - ☕ On caffeine.
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 ---
 
