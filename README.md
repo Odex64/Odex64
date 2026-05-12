@@ -1,6 +1,6 @@
 <h3 align="center">
   <samp>
-    &gt; Hey There!<br/>I am Carmine Pietroluongo <i>aka Odex</i>
+    &gt; Hello There!<br/>I'm Carmine Pietroluongo
   </samp>
 </h3>
 
@@ -12,7 +12,7 @@
 
 <p align="center">
   <samp>
-  [ A developer from <b>Italy</b> 🍕 ]
+  《 A developer from <b>Italy</b> 🍕 》
   </samp>
 </p>
 
