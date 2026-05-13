@@ -4,10 +4,6 @@
   </samp>
 </h3>
 
-<div align="center">
-  <img src="https://i.imgur.com/WDc3Ql4.png" />
-</div>
-
 <br/>
 
 <p align="center">
