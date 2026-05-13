@@ -4,8 +4,6 @@
   </samp>
 </h3>
 
-<br/>
-
 <p align="center">
   <samp>
   [ A developer from <b>Italy</b> 🍕 ]
