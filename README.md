@@ -58,6 +58,7 @@ Reverse engineering and code injection skills.
 ### Socials
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1010118213754949672)
+[![Element](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@cyriakneo:matrix.org)
 [![BlueSky](https://img.shields.io/badge/BlueSKy-1185FE?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/odex64.bsky.social)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/odex64)
 
