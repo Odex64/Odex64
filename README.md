@@ -61,7 +61,7 @@ Reverse engineering and code injection skills.
 [![Element](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@cyriakneo:matrix.org)
 [![BlueSky](https://img.shields.io/badge/BlueSKy-1185FE?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/odex64.bsky.social)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/odex64)
-[![Reddit](https://img.shields.io/badge/Reddti-FF4500?style=for-the-badge&logo=reddti&logoColor=white)](https://www.reddit.com/user/carmine_pi/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/carmine_pi/)
 
 ### Others
 
