@@ -61,12 +61,13 @@ Reverse engineering and code injection skills.
 [![Element](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@cyriakneo:matrix.org)
 [![BlueSky](https://img.shields.io/badge/BlueSKy-1185FE?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/odex64.bsky.social)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/odex64)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/carmine_pi/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/carmine_pi)
 
 ### Others
 
 [![Steam](https://img.shields.io/badge/Steam-33302E?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/odex64)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0033?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@odex64)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://odex64.itch.io)
 
 <br/>
 
